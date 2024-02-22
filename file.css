@@ -250,6 +250,21 @@ margin-left: 40px;
     #product1 .pro-container img{
         width: 100%;
     }
+          .book-container{
+        margin-left: 100px;
+    }
+    #nextPageBtn{
+        margin-left: 300px;
+        margin-bottom: 50px;
+        width: 100px;
+        height: 20px;
+        color: #092635;
+        background-color: aqua;
+        border-style: none;
+        border-radius: 5px;
+        text-align: center;
+        justify-content: center;
+    }
 }
 
 
